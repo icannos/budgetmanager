@@ -1,0 +1,1 @@
+<div id="_content_ajax_budgetmanager">
